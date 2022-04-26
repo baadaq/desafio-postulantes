@@ -21,5 +21,5 @@ El JSON de respuesta puede venir en el formato que estimes conveniente.
 -El estupido node cargo chromium en los node_modules y me iba a buscar el archivo a usr/....(pesaba 300mb).  
 -Esta un script que lo muesta ordenado en terminal, alguno los extraje solo con innerText y otros con innerHtml.  
 -El txt test tiene un parseado bruto completo de la pagina.  
--Casi lo olvido, todo fue realizado con nodejs y puppeteer( me termino cargando un vue-router, no se de donde salio, es decir uso vue pero simplemente   
+-Casi lo olvido, todo fue realizado con nodejs y puppeteer( me termino cargando un vue-router, no se de donde salio, es decir uso vue pero simplemente 
 cree una app basica en js con node).  
