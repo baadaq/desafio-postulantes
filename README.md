@@ -23,3 +23,9 @@ El JSON de respuesta puede venir en el formato que estimes conveniente.
 -El txt test tiene un parseado bruto completo de la pagina.  
 -Casi lo olvido, todo fue realizado con nodejs y puppeteer( me termino cargando un vue-router, no se de donde salio, es decir uso vue pero simplemente 
 cree una app basica en js con node).  
+
+-----
+#### EDIT
+- La rejodi, parsee la pagina completa, eso si dentro del script esta el parseo ordenado de los datos requeridos (como innerHTML).
+- Para ejecutar el codigo es utilizar node parseSII.js.
+- puppeteer es una api que permite recolectar info a traves del template de la pagina y retorna objetos.
